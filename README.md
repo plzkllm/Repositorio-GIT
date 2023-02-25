@@ -9,5 +9,6 @@ Un blog increible para el [curso de git y github de Platzi](https://platzi.com/c
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples del profesor Freddy
+* Creado por el increible Platzi team
 
 Y como un amable recordatorio **Este README es un chiste ** . Diseñado para el ejemplo. Si llega acá, no te lo tomes tan en serio y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "**a ver el curso**") 
